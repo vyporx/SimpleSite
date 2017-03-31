@@ -34,6 +34,7 @@ img {
     max-width: 800px;
     height: auto;
     width: auto;
+    border-radius: 3px;
 }
 
 .logo {
