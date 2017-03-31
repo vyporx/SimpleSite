@@ -1,2 +1,2 @@
-# fk
-Random Page
+# SimpleSite
+Just a simple page.
