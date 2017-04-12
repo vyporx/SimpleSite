@@ -57,8 +57,6 @@ nav {
     padding: 5px 0;
     width: auto;
     border-bottom: 1px solid #0756b2;
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
 }
 
 ul {
@@ -167,11 +165,10 @@ body {
     vertical-align: middle;
 }
 
-wrapper {
-    height: 600px;
+.wrapper {
     margin: 0 auto;
     background-color: #fff;
-    box-shadow: 0px 4px 16px 0px #999;
+    box-shadow: 0px 4px 16px 0px #444;
 }
 
 .content {
@@ -193,8 +190,6 @@ footer {
     color: #eee;
     text-align: center;
     border-top: 1px solid #0756b2;
-    border-bottom-left-radius: 10px;
-    border-bottom-right-radius: 10px;
 }
 
 
